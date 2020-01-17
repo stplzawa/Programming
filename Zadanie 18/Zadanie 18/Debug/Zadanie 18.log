@@ -1,0 +1,3 @@
+﻿  Zadanie 18.cpp
+C:\Users\alimk\source\repos\Zadanie 18\Zadanie 18\Zadanie 18.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Zadanie 18.vcxproj -> C:\Users\alimk\source\repos\Zadanie 18\Debug\Zadanie 18.exe
